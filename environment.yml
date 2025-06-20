@@ -1,5 +1,6 @@
 name: "dataviz"
 channels:
+  - nodefaults
   - conda-forge
   - https://repo.anaconda.com/pkgs/main
   - https://repo.anaconda.com/pkgs/r
